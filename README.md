@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at appmypets<br>🌱 I’m currently learning Go<br>💬 Ask me about any geeky stuff<br>⚡ neoVIM user by the way
+🔭 I’m currently working at appmypets<br>🌱 I’m currently learning Go<br>💬 Ask me about any geeky stuff<br>⚡ I use Arch btw
 
 
 ## 🌐 Socials:
