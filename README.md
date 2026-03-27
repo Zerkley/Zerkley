@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Podunk Software<br>💬 Ask me about any geeky stuff<br>⚡ I use Arch btw
+🔭 I’m currently working at Marea Online<br>💬 Ask me about any geeky stuff<br>⚡ I use Arch btw
 
 
 ## 🌐 Socials:
